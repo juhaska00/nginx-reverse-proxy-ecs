@@ -1,0 +1,1 @@
+Simple Nginx reverse proxy for ECS Fargate services
